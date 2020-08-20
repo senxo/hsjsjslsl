@@ -21,3 +21,7 @@ _This is likely to change soon_
 It's super simple! You only have to apply it to your url and it should start working.
 
 First you go to the website and at the end you add:
+
+> https://discordid.netlify.app **?name=Taichikuji&number=9053**
+
+It's easy, right? Every time you want to add a new value you can add it between **&**. At the start you have to add **?** to make it work. Make sure there's no slash ( / ) before the **?** !
