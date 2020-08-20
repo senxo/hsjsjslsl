@@ -13,7 +13,7 @@ Number would be the discriminator after the #. Example: Taichikuji#**9053**
 
 The id is the discord profile id. It's an optional value. If you want to know how to get the id, go [here](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-)
 
-The img would be the url you want to show on your profile. It's highly suggested that you use an image with a 1:1 ratio so that the profile doesn't breaks.
+The img would be the url you want to show on your profile. It's highly suggested that you use an image with a 1:1 ratio so that the profile doesn't break.
 _This is likely to change soon_
 
 ## How do I apply those variables to the profile?
