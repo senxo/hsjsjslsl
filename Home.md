@@ -1,27 +1,19 @@
 # Welcome to the template-discord-introduction wiki!
 
-It's simple to set the profile up. There are four variables to use.
+It's simple to set the profile up. You have this parameter to set up:
 
-- name
-- number
 - id
-- img
 
-Name would be the text before the #. Example: **Taichikuji**#9053
+The id is the discord profile id. If you want to know how to get the id, go [here](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-) or follow these steps that I quickly made!
 
-Number would be the discriminator after the #. Example: Taichikuji#**9053**
+* First, you need to right click on your username, and click on "Copy ID"
 
-The id is the discord profile id. It's an optional value. If you want to know how to get the id, go [here](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-)
+<img src="https://i.ibb.co/3W7tLtz/1.png"><br/>
+* Second, you paste the ID you copied after typing `?id=` at the end of the url, just like this!
 
-The img would be the url you want to show on your profile. It's highly suggested that you use an image with a 1:1 ratio so that the profile doesn't break.
-_This is likely to change soon_
+<img src="https://i.ibb.co/xfZGcDp/2.png"><br/>
 
-## How do I apply those variables to the profile?
+* And that's it! You'll have your shiny profile working! Share it with your friends!
+<img src="https://i.ibb.co/sRZXLNS/3.png">
 
-It's super simple! You only have to apply it to your url and it should start working.
-
-First you go to the website and at the end you add:
-
-> https://discordid.netlify.app **?name=Taichikuji&number=9053**
-
-It's easy, right? Every time you want to add a new value you can add it between **&**. At the start you have to add **?** to make it work. Make sure there's no slash ( / ) before the **?** !
+It's easy, right? Remember: At the start you have to add **?** to make it work.
