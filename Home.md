@@ -1,4 +1,4 @@
-# Welcome to the template-discord-introduction wiki!
+# Welcome to the discordid wiki!
 
 It's simple to set the profile up. You have this parameter to set up:
 
